@@ -1,0 +1,4 @@
+Detalhes:
+Este programa percorre os arquivos .txt presentes na pasta onde for colocado e procura pela palavra informada 
+retornando a frase onde a palavra foi encontrada para um arquivo chamado resultado.txt
+
