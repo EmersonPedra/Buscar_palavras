@@ -1,5 +1,5 @@
 #  ---------------------------------------------------------------------------------------------------------------------
-# Autor : NathanCurioso
+# Autor : Emerson Pedra
 # Data : 28/11/2018
 # Descriçao do programa: Analiza os arquivos existentes na pasta, procura pela palavra informada pelo usuario e cria um
 # arquivo contendo as linhas que possuirem a palavra procurada
