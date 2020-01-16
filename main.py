@@ -6,7 +6,7 @@
 #  ---------------------------------------------------------------------------------------------------------------------
 
 from os import listdir  # Importa o metodo listdir responsavel por listar os arquivos e diretorios da pasta
-palavra = input('Informa a palavra procurada: \n')
+palavra = input('Informe a palavra procurada: \n')
 nomes = listdir()  # Armazena os nomes dos arquivos presentes na pasta
 novoarquivo = open('resultado.txt', 'w')  # Atualiza ou cria o arquivo com as linhas que tiverem a palavra procurada
 for nome in nomes:  # Percorre a lista contendo o nome dos arquivos
